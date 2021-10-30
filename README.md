@@ -1,3 +1,3 @@
-# MASPPR: Official GitHub Repository
+# MASEPR: Official GitHub Repository
 
 
