@@ -1,9 +1,9 @@
 # Examples
 
 Have a look at some of the best attention maps that that the model has generated.<br>
-To visualize the distribution of attention weights across the review, download the files using the download button (top right), and open the html files using your web browser.<br>
+To visualize the distribution of attention weights across the reviews/sentences, download the respective files using the download button (top right), and open the html files using your web browser.<br>
 
-The colormap used is scaled verion of 'matplotlib.lib.jet'. To know more about the colormaps, visit the [page](https://matplotlib.org/stable/tutorials/colors/colormaps.html)<br>
+The colormap used is scaled verion of 'matplotlib.cmap.jet'. To know more about the colormaps, visit the [page](https://matplotlib.org/stable/tutorials/colors/colormaps.html)<br>
 - Custom colormap in use:
 ![](images/colormap.jpg)
 
