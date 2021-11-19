@@ -33,8 +33,8 @@ For our experimental needs we reconstucted the ASAP dataset. The reconstucted da
     1) cd data
     2) wget https://drive.google.com/file/d/1nJdljy468roUcKLbVwWUhMs7teirah75/view?usp=sharing
     3) cd ..
-    4) python new.py
-    5) python create_labels.py
+    4) python codes/new.py
+    5) python codes/create_labels.py
     
  After running this code, a folder named modified_data will be created with three files in it, namely
  
@@ -45,7 +45,7 @@ For our experimental needs we reconstucted the ASAP dataset. The reconstucted da
 
 You can train our model with any transformer model using the command below
 
-    python multitask_bert.py
+    python codes/multitask_bert.py
     
 If you want to change the transformer model used for generating representations , just change the parameter named model_name in the file multitask_bert.py
 The default model is bert-based-uncased ,which gives the best results on the test dataset.
