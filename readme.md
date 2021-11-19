@@ -1,4 +1,4 @@
-This is the official repository for the paper Titled:
+This is the official repository for the paper titled:
 
 # MASEPR: A Sentiment-leveraged Multi-taskDeep Neural Architecture for Aspect Extractionfrom Peer Reviews
 
