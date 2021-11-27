@@ -1,6 +1,6 @@
 This is the official repository for the paper titled:
 
-# MASEPR: A Sentiment-leveraged Multi-taskDeep Neural Architecture for Aspect Extractionfrom Peer Reviews
+# MASEPR: A Sentiment-leveraged Multi-taskDeep Neural Architecture for Aspect Extraction from Peer Reviews
 
 # DEMO VIDEO OF OUR INTERFACE
 
