@@ -1,6 +1,8 @@
-This is the official repository for the paper titled:
+This is the official repository for the paper titled: _Deciphering the reviewer’s aspectual
+perspective: A joint multitask framework for aspect and sentiment
+extraction from scholarly peer reviews_
 
-# MASEPR: A Sentiment-leveraged Multi-taskDeep Neural Architecture for Aspect Extraction from Peer Reviews
+# MASEPR: Multi-Aspect-Sentiment Extractor for Peer Reviews
 
 # DEMO VIDEO OF OUR INTERFACE
 Please open the link below to watch the demo:
